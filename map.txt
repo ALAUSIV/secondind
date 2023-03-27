@@ -1,0 +1,6 @@
+1~false~room 1~You wake up in the middle of an empty white room with doors on each side~0,2,3,0
+2~false~room 2~Another white room~0,0,4,1
+3~false~room 3~A white room~1,4,5,0
+4~false~room 4~Yet again, another white room~2,0,6,3
+5~false~room 5~How many white rooms are there?~3,6,0,0
+6~false~room 6~Yup, another white room~4,0,0,5

@@ -1,0 +1,3 @@
+jewel~this is a red jewel~1
+sword~this is a rusty sword~3
+creature~this is a fuzzy boi~5

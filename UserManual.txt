@@ -1,0 +1,66 @@
+List of interaction commands:
+
+To explore Rooms:
+"Explore"
+"explore"
+
+To pickup Items:
+"Pickup [item name]"
+"pickup [item name]"
+
+To drop Items:
+"Drop [item name]"
+"drop [item name]"
+
+To inspect Items:
+"Inspect [item name]"
+"inspect [item name]"
+
+------------------------------------------------------------------------------------------------------------------------
+
+List of player commands:
+
+To access inventory:
+"Inventory"
+"inventory"
+
+------------------------------------------------------------------------------------------------------------------------
+
+List of navigational commands:
+
+To go North:
+"NORTH"
+"North"
+"north"
+"N"
+"n"
+
+To go East:
+"EAST"
+"East"
+"east"
+"E"
+"e"
+
+To go West:
+"WEST"
+"West"
+"west"
+"W"
+"w"
+
+To go South:
+"SOUTH"
+"South"
+"south"
+"S"
+"s"
+
+------------------------------------------------------------------------------------------------------------------------
+
+List of program Commands:
+
+To Exit program:
+"EXIT"
+"Exit"
+"exit"

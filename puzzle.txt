@@ -1,0 +1,2 @@
+2~what planet do you live on?~earth~You solved the puzzle correctly!~the answer you provided is wrong~3~false
+6~what color is the sky?~blue~You solved the puzzle correctly!~the answer you provided is wrong~5~false
