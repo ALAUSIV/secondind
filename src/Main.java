@@ -49,7 +49,7 @@ public class Main {
             //asks for command
             commands(roomList, command, input, conList, pawn, connection, itemList);
 
-            System.out.println("--------------------------------");
+            System.out.println("--------d------------------------");
 
             //updates room connections
             connection = roomList.get(Integer.parseInt(pawn.getLocation()) - 1).getConnections();
